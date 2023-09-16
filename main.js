@@ -14,7 +14,7 @@ function getValues(e){
 	var li = document.createElement('li');
 	li.className = 'item';
 	var delbutton = document.createElement('button');
-	delbutton.className = 'float-right delete';
+	delbutton.className = 'float-right delete mr-3';
 	var editButton = document.createElement('button');
 	editButton.className = 'float-right edit mr-3';
 
